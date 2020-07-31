@@ -1,0 +1,25 @@
+{ 
+  "genres":[ 
+ { "id":11 , "name":"Action"} ,
+ { "id":12 , "name":"Adventure"} ,
+ { "id":13 , "name":"Comedy"} ,
+ { "id":14 , "name":"Drama"} ,
+ { "id":15 , "name":"Ecchi"} ,
+ { "id":16 , "name":"Fantasy"} ,
+ { "id":17 , "name":"Harem"} ,
+ { "id":18 , "name":"Historical"} ,
+ { "id":19 , "name":"Martial Arts"} ,
+ { "id":20 , "name":"Mecha"} ,
+ { "id":21 , "name":"Mystery"} ,
+ { "id":22 , "name":"One Shot"} ,
+ { "id":23 , "name":"Psychological"} ,
+ { "id":24 , "name":"School Life"} ,
+ { "id":25 , "name":"Sci-fi"} ,
+ { "id":26 , "name":"Seinen"} ,
+ { "id":27 , "name":"Shounen"} , 
+ { "id":28 , "name":"Slice of Life"} , 
+ { "id":29 , "name":"Sports"} , 
+ { "id":30 , "name":"Supernatural"} ,
+ { "id":31 , "name":"Webtoons"}  
+ ]  
+}
