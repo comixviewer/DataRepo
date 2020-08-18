@@ -1,6 +1,6 @@
 {
    "data":{ 
-        "announcements": [{
+        "announcements": {{
         "t":"First Announcement",
         "u":"https://www.google.com",
         "d":"This is the data in the first annoouncement",
@@ -93,7 +93,7 @@
         "a":"Test author 3",
         "p":"16-08-2020",
         "b":"345678"
-        }]
+        }}
        
       }
 }
