@@ -1,0 +1,41 @@
+{
+   "data":{
+        "t": 4 ,
+        "announcements": [{
+        "t":"First Announcement",
+        "u":"https://www.google.com"
+        "d":"This is the data in the first annoouncement",
+        "a":"Test author 1",
+        "p":"14-08-2020",
+        "b":"123456"
+        }, {
+        "t":"Second Announcement",
+        "u":"https://www.gmail.com"
+        "d":"This is the data in the second annoouncement",
+        "a":"Test author 2",
+        "p":"15-08-2020",
+        "b":"234567"
+        } ,{
+        "t":"Third Announcement",
+        "u":"https://www.bing.com"
+        "d":"This is the data in the third annoouncement",
+        "a":"Test author 3",
+        "p":"16-08-2020",
+        "b":"345678"
+        },{
+        "t":"Fourth Announcement",
+        "u":"https://www.facebook.com"
+        "d":"This is the data in the fourth annoouncement",
+        "a":"Test author 4",
+        "p":"17-08-2020",
+        "b":"456789"
+        }, {
+        "t":"Fifth Announcement",
+        "u":"https://www.twitter.com"
+        "d":"This is the data in the fifth annoouncement",
+        "a":"Test author 5",
+        "p":"18-08-2020",
+        "b":"567890"
+        }]
+      }
+}
