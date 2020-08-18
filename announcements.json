@@ -1,6 +1,5 @@
 {
-   "data":{
-        "t": 4 ,
+   "data":{ 
         "announcements": [{
         "t":"First Announcement",
         "u":"https://www.google.com",
@@ -36,6 +35,65 @@
         "a":"Test author 5",
         "p":"18-08-2020",
         "b":"567890"
+        }],
+       "noteworthy": [ {
+        "t":"First Note",
+        "u":"https://www.google.com",
+        "d":"This is the data in the first Note",
+        "a":"Test author 1",
+        "p":"14-08-2020",
+        "b":"123456"
+        }, {
+        "t":"Second Note",
+        "u":"https://www.gmail.com",
+        "d":"This is the data in the second Note",
+        "a":"Test author 2",
+        "p":"15-08-2020",
+        "b":"234567"
+        } ,{
+        "t":"Third Note",
+        "u":"https://www.bing.com",
+        "d":"This is the data in the third Note",
+        "a":"Test author 3",
+        "p":"16-08-2020",
+        "b":"345678"
+        },{
+        "t":"Fourth Note",
+        "u":"https://www.facebook.com",
+        "d":"This is the data in the fourth Note",
+        "a":"Test author 4",
+        "p":"17-08-2020",
+        "b":"456789"
+        }, {
+        "t":"Fifth Note",
+        "u":"https://www.twitter.com",
+        "d":"This is the data in the fifth Note",
+        "a":"Test author 5",
+        "p":"18-08-2020",
+        "b":"567890"
+        }],
+      "promotions": [ {
+        "t":"First promo",
+        "u":"https://www.google.com",
+        "d":"This is the data in the first Note",
+        "a":"Test author 1",
+        "p":"14-08-2020",
+        "b":"123456"
+        }, {
+        "t":"Second promo",
+        "u":"https://www.gmail.com",
+        "d":"This is the data in the second Note",
+        "a":"Test author 2",
+        "p":"15-08-2020",
+        "b":"234567"
+        } ,{
+        "t":"Third promo",
+        "u":"https://www.bing.com",
+        "d":"This is the data in the third Note",
+        "a":"Test author 3",
+        "p":"16-08-2020",
+        "b":"345678"
         }]
+       
       }
 }
