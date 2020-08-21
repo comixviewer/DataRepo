@@ -1,17 +1,17 @@
 {
  "collections": [
  {
-  "i": 1
+  "i": "1",
   "n":"FirstCollection",
   "l": "1,2,3"
  },
  {
-  "i": 2
+  "i": "2",
   "n":"SecondCollection",
   "l": "2,3,4"
  },
  {
-  "i": 3
+  "i": "3",
   "n":"ThirdCollection",
   "l": "3,4,5"
  }
