@@ -4,19 +4,22 @@
   "i": "1",
   "n":"FirstCollection",
   "d":"Description 1",
-  "l": "1,2,3"
+  "l": "1,2,3",
+    "ln":"en"
  },
  {
   "i": "2",
   "n":"SecondCollection",
    "d":"Description 2",
-  "l": "2,3,4"
+  "l": "2,3,4",
+    "ln":"en"
  },
  {
   "i": "3",
   "n":"ThirdCollection",
    "d":"Description 3",
-  "l": "3,4,5"
+  "l": "3,4,5",
+    "ln":"en"
  }
  
  ]
