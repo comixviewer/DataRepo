@@ -13,6 +13,10 @@
 "n": "The Flintstones", "e":"VGhlIEZsaW50c3RvbmVz", 
 "c": "10", "z": 0, "l": 10, 
 "a": "Hanna Barbara", "s" : "C",
-"t" : "PA" , "b":0 , "v":"500000", "ln":"en"}
-        ]
+"t" : "PA" , "b":0 , "v":"500000", "ln":"en"},
+ {   "n": "Pep Comics","e":"UGVwIENvbWljcw" ,
+     "c": "71", "z": 863.0, "l": 71,
+     "a": "Archie Comics", "s" : "C",
+     "t" : "A" ,  "b":0 ,  "v":"500000" ,"i":"6",  "ln":"en"}
+   ]
 }
