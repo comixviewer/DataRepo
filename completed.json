@@ -10,7 +10,7 @@
  "d":"", "a": "Archie Comics",  "s" : "C", "t" : "A" ,  "b":0 , 
  "e":"R2luZ2Vy",  "v":"500000",  "i":"3", "ln":"en"}, 
  {   "n": "Pep Comics","e":"UGVwIENvbWljcw" , "c": "71", "z": 863.0, "l": 71,
-     "d":"" , "a": "Archie Comics", "s" : "C",
+     "d":"" , "a": "Archie Comics", "s" : "C", "g":"11#12#13","s":"C" ,
      "t" : "A" ,  "b":0 ,  "v":"500000" ,"i":"4",  "ln":"en"} 
    ]
 }
