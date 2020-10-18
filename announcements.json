@@ -84,26 +84,26 @@
         }],
       "promotions": [ {
            "i":"11",
-        "t":"First promo",
-        "u":"https://www.google.com",
-        "d":"This is the data in the first Note",
-        "a":"Test author 1",
+        "t":"Patreon",
+        "u":"https://www.Patreon.com/Transytion",
+        "d":"Support us on Patreon",
+        "a":"Become a Patron",
         "p":"14-08-2020",
         "b":"123456"
         }, {
              "i":"12",
-        "t":"Second promo",
-        "u":"https://www.gmail.com",
-        "d":"This is the data in the second Note",
-        "a":"Test author 2",
+        "t":"Youtube",
+        "u":"https://www.youtube.com/channel/UC0vGqWhmXqykBFQhJToGR-w",
+        "d":"This is official youtube channel",
+        "a":"Subscribe !",
         "p":"15-08-2020",
         "b":"234567"
         } ,{
              "i":"13",
-        "t":"Third promo",
-        "u":"https://www.bing.com",
-        "d":"This is the data in the third Note",
-        "a":"Test author 3",
+        "t":"Follow on twitter",
+        "u":"https://twitter.com/TransytionStud1",
+        "d":"Follow us on twitter",
+        "a":"Follow us",
         "p":"16-08-2020",
         "b":"345678"
         }]
