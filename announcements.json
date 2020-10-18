@@ -65,22 +65,6 @@
         "a":"Test author 3",
         "p":"16-08-2020",
         "b":"345678"
-        },{
-             "i":"9",
-        "t":"Fourth Note",
-        "u":"https://www.facebook.com",
-        "d":"This is the data in the fourth Note",
-        "a":"Test author 4",
-        "p":"17-08-2020",
-        "b":"456789"
-        }, {
-             "i":"10",
-        "t":"Fifth Note",
-        "u":"https://www.twitter.com",
-        "d":"This is the data in the fifth Note",
-        "a":"Test author 5",
-        "p":"18-08-2020",
-        "b":"567890"
         }],
       "promotions": [ {
            "i":"11",
@@ -100,7 +84,7 @@
         "b":"Youtube"
         } ,{
              "i":"13",
-        "t":"Follow on twitter",
+        "t":"Twitter",
         "u":"https://twitter.com/TransytionStud1",
         "d":"Follow us on twitter",
         "a":"Follow us",
