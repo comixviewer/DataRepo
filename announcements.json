@@ -24,22 +24,6 @@
         "a":"Test author 3",
         "p":"16-08-2020",
         "b":"345678"
-        },{
-             "i":"4",
-        "t":"Fourth Announcement",
-        "u":"https://www.facebook.com",
-        "d":"This is the data in the fourth annoouncement",
-        "a":"Test author 4",
-        "p":"17-08-2020",
-        "b":"456789"
-        }, {
-             "i":"5",
-        "t":"Fifth Announcement",
-        "u":"https://www.twitter.com",
-        "d":"This is the data in the fifth annoouncement",
-        "a":"Test author 5",
-        "p":"18-08-2020",
-        "b":"567890"
         }],
        "noteworthy": [ {
             "i":"6",
