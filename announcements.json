@@ -89,7 +89,7 @@
         "d":"Support us on Patreon",
         "a":"Become a Patron",
         "p":"14-08-2020",
-        "b":"123456"
+        "b":"Patreon"
         }, {
              "i":"12",
         "t":"Youtube",
@@ -97,7 +97,7 @@
         "d":"This is official youtube channel",
         "a":"Subscribe !",
         "p":"15-08-2020",
-        "b":"234567"
+        "b":"Youtube"
         } ,{
              "i":"13",
         "t":"Follow on twitter",
@@ -105,7 +105,7 @@
         "d":"Follow us on twitter",
         "a":"Follow us",
         "p":"16-08-2020",
-        "b":"345678"
+        "b":"Twitter"
         }]
        
       }
