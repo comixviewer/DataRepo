@@ -2,55 +2,22 @@
    "data":{ 
         "announcements": [{
            "i":"1",
-        "t":"First Announcement",
+        "t":"A New Comics Platform",
         "u":"https://www.google.com",
         "d":"This is the data in the first annoouncement",
-        "a":"Test author 1",
+        "a":"ComixViewer",
         "p":"14-08-2020",
         "b":"123456"
         }, {
              "i":"2",
-        "t":"Second Announcement",
+        "t":"Adding more comics weekly",
         "u":"https://www.gmail.com",
-        "d":"This is the data in the second annoouncement",
-        "a":"Test author 2",
+        "d":"Adding several dozen comics every week ",
+        "a":"ComixViewer",
         "p":"15-08-2020",
         "b":"234567"
-        } ,{
-             "i":"3",
-        "t":"Third Announcement",
-        "u":"https://www.bing.com",
-        "d":"This is the data in the third annoouncement",
-        "a":"Test author 3",
-        "p":"16-08-2020",
-        "b":"345678"
         }],
-       "noteworthy": [ {
-            "i":"6",
-        "t":"First Note",
-        "u":"https://www.google.com",
-        "d":"This is the data in the first Note",
-        "a":"Test author 1",
-        "p":"14-08-2020",
-        "b":"123456"
-        }, {
-             "i":"7",
-        "t":"Second Note",
-        "u":"https://www.gmail.com",
-        "d":"This is the data in the second Note",
-        "a":"Test author 2",
-        "p":"15-08-2020",
-        "b":"234567"
-        } ,{
-             "i":"8",
-        "t":"Third Note",
-        "u":"https://www.bing.com",
-        "d":"This is the data in the third Note",
-        "a":"Test author 3",
-        "p":"16-08-2020",
-        "b":"345678"
-        }],
-      "promotions": [ {
+       "noteworthy": [{
            "i":"11",
         "t":"Patreon",
         "u":"https://www.Patreon.com/Transytion",
@@ -74,6 +41,15 @@
         "a":"Follow us",
         "p":"16-08-2020",
         "b":"Twitter"
+        } ],
+      "promotions": [{
+            "i":"6",
+        "t":"Rate The App",
+        "u":"https://www.google.com",
+        "d":"This is the data in the first Note",
+        "a":"omixViewer",
+        "p":"14-08-2020",
+        "b":"123456"
         }]
        
       }
