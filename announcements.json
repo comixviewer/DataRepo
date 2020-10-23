@@ -45,11 +45,11 @@
       "promotions": [{
             "i":"6",
         "t":"Rate The App",
-        "u":"https://www.google.com",
-        "d":"This is the data in the first Note",
-        "a":"omixViewer",
+        "u":"https://play.google.com/store/apps/developer?id=TransytionStudios",
+        "d":"rate us on Youtube",
+        "a":"ComixViewer",
         "p":"14-08-2020",
-        "b":"123456"
+        "b":"rating"
         }]
        
       }
