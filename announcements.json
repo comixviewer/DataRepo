@@ -2,7 +2,7 @@
    "data":{ 
         "announcements": [{
            "i":"1",
-        "t":"A New Comics Platform",
+        "t":"Welcome !",
         "u":"https://rawcdn.githack.com/comixviewer/Announcements/86abed1f1d3000a14e33f9789cca7a907a69c866/Articles/ComicsPlatform.html",
         "d":"Brought to you by Transytion Studios",
         "a":"ComixViewer",
@@ -10,7 +10,7 @@
         "b":"Platform"
         }, {
              "i":"2",
-        "t":"More comics weekly",
+        "t":"Weekly Comics",
         "u":"https://rawcdn.githack.com/comixviewer/Announcements/86abed1f1d3000a14e33f9789cca7a907a69c866/Articles/Titles.html",
         "d":"Adding several dozen comics every week ",
         "a":"ComixViewer",
