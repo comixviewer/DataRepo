@@ -41,8 +41,8 @@
         "a":"Follow!",
         "p":"16-08-2020",
         "b":"Twitter"
-        } ],
-      "promotions": [{
+        },
+                     {
             "i":"6",
         "t":"Rate Us",
         "u":"https://play.google.com/store/apps/developer?id=TransytionStudios",
@@ -50,7 +50,8 @@
         "a":"ComixViewer",
         "p":"14-08-2020",
         "b":"rating"
-        }]
+        }],
+      "promotions": []
        
       }
 }
