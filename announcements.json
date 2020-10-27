@@ -2,111 +2,56 @@
    "data":{ 
         "announcements": [{
            "i":"1",
-        "t":"First Announcement",
-        "u":"https://www.google.com",
-        "d":"This is the data in the first annoouncement",
-        "a":"Test author 1",
+        "t":"Welcome !",
+        "u":"https://rawcdn.githack.com/comixviewer/Announcements/86abed1f1d3000a14e33f9789cca7a907a69c866/Articles/ComicsPlatform.html",
+        "d":"Brought to you by Transytion Studios",
+        "a":"ComixViewer",
         "p":"14-08-2020",
-        "b":"123456"
+        "b":"Platform"
         }, {
              "i":"2",
-        "t":"Second Announcement",
-        "u":"https://www.gmail.com",
-        "d":"This is the data in the second annoouncement",
-        "a":"Test author 2",
+        "t":"Weekly Comics",
+        "u":"https://rawcdn.githack.com/comixviewer/Announcements/86abed1f1d3000a14e33f9789cca7a907a69c866/Articles/Titles.html",
+        "d":"Adding several dozen comics every week ",
+        "a":"ComixViewer",
         "p":"15-08-2020",
-        "b":"234567"
-        } ,{
-             "i":"3",
-        "t":"Third Announcement",
-        "u":"https://www.bing.com",
-        "d":"This is the data in the third annoouncement",
-        "a":"Test author 3",
-        "p":"16-08-2020",
-        "b":"345678"
-        },{
-             "i":"4",
-        "t":"Fourth Announcement",
-        "u":"https://www.facebook.com",
-        "d":"This is the data in the fourth annoouncement",
-        "a":"Test author 4",
-        "p":"17-08-2020",
-        "b":"456789"
-        }, {
-             "i":"5",
-        "t":"Fifth Announcement",
-        "u":"https://www.twitter.com",
-        "d":"This is the data in the fifth annoouncement",
-        "a":"Test author 5",
-        "p":"18-08-2020",
-        "b":"567890"
+        "b":"morecomics"
         }],
-       "noteworthy": [ {
-            "i":"6",
-        "t":"First Note",
-        "u":"https://www.google.com",
-        "d":"This is the data in the first Note",
-        "a":"Test author 1",
-        "p":"14-08-2020",
-        "b":"123456"
-        }, {
-             "i":"7",
-        "t":"Second Note",
-        "u":"https://www.gmail.com",
-        "d":"This is the data in the second Note",
-        "a":"Test author 2",
-        "p":"15-08-2020",
-        "b":"234567"
-        } ,{
-             "i":"8",
-        "t":"Third Note",
-        "u":"https://www.bing.com",
-        "d":"This is the data in the third Note",
-        "a":"Test author 3",
-        "p":"16-08-2020",
-        "b":"345678"
-        },{
-             "i":"9",
-        "t":"Fourth Note",
-        "u":"https://www.facebook.com",
-        "d":"This is the data in the fourth Note",
-        "a":"Test author 4",
-        "p":"17-08-2020",
-        "b":"456789"
-        }, {
-             "i":"10",
-        "t":"Fifth Note",
-        "u":"https://www.twitter.com",
-        "d":"This is the data in the fifth Note",
-        "a":"Test author 5",
-        "p":"18-08-2020",
-        "b":"567890"
-        }],
-      "promotions": [ {
+       "noteworthy": [{
            "i":"11",
-        "t":"First promo",
-        "u":"https://www.google.com",
-        "d":"This is the data in the first Note",
-        "a":"Test author 1",
+        "t":"Patreon",
+        "u":"https://www.Patreon.com/Transytion",
+        "d":"Support us on Patreon",
+        "a":"Sponsor!",
         "p":"14-08-2020",
-        "b":"123456"
+        "b":"Patreon"
         }, {
              "i":"12",
-        "t":"Second promo",
-        "u":"https://www.gmail.com",
-        "d":"This is the data in the second Note",
-        "a":"Test author 2",
+        "t":"Youtube",
+        "u":"https://www.youtube.com/channel/UC0vGqWhmXqykBFQhJToGR-w",
+        "d":"This is official youtube channel",
+        "a":"Subscribe!",
         "p":"15-08-2020",
-        "b":"234567"
+        "b":"Youtube"
         } ,{
              "i":"13",
-        "t":"Third promo",
-        "u":"https://www.bing.com",
-        "d":"This is the data in the third Note",
-        "a":"Test author 3",
+        "t":"Twitter",
+        "u":"https://twitter.com/TransytionStud1",
+        "d":"Follow us on twitter",
+        "a":"Follow!",
         "p":"16-08-2020",
-        "b":"345678"
-        }]
+        "b":"Twitter"
+        },
+                     {
+            "i":"6",
+        "t":"Rate Us",
+        "u":"https://play.google.com/store/apps/developer?id=TransytionStudios",
+        "d":"rate us on Youtube",
+        "a":"ComixViewer",
+        "p":"14-08-2020",
+        "b":"rating"
+        }],
+      "promotions": []
        
       }
 }

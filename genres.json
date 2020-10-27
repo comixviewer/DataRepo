@@ -6,18 +6,11 @@
  { "i":14 , "n":"Western"} ,
  { "i":15 , "n":"Fantasy"} ,
  { "i":16 , "n":"Superhero"} ,
- { "i":17 , "n":"Historical"} ,
- { "i":18 , "n":"Martial Arts"} ,
  { "i":19 , "n":"Horror"} ,
  { "i":20 , "n":"Mystery"} ,
  { "i":21 , "n":"One Shot"} ,
- { "i":22 , "n":"Psychological"} ,
  { "i":23 , "n":"Crime"} ,
  { "i":24 , "n":"Sci-fi"} ,
- { "i":25 , "n":"Youth"} ,
- { "i":26 , "n":"Teen"} ,  
- { "i":27 , "n":"Sports"} , 
- { "i":28 , "n":"Supernatural"} ,
- { "i":29 , "n":"Webtoons"}   
+ { "i":26 , "n":"Teen"}  
  ]  
 }

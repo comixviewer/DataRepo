@@ -4,21 +4,35 @@
   "i": "1",
   "n":"SuperHeroes",
   "d":"Golden age superheroes",
-  "l": "1,2,3",
+  "l": "13,4,79,45",
    "ln":"en"
  },
  {
   "i": "2",
   "n":"Teen Comedy",
    "d":"Hilarious teenagers",
-  "l": "2,3,4",
+  "l": "30,3,11,59,12",
     "ln":"en"
  },
  {
   "i": "3",
   "n":"Monsters Galore",
    "d":"Horror collection",
-  "l": "1,4",
+  "l": "62,77,7,15,49,69,9,57,31,70",
+    "ln":"en"
+ },
+ {
+  "i": "4",
+  "n":"Leading Ladies",
+   "d":"Heroines",
+  "l": "65,76",
+    "ln":"en"
+ },
+ {
+  "i": "5",
+  "n":"Fighting spirit",
+   "d":"War collection",
+  "l": "16,50,54,55,43,81,78,33,83,22",
     "ln":"en"
  }
  
