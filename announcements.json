@@ -34,13 +34,13 @@
         "p":"15-08-2020",
         "b":"Youtube"
         } ,{
-             "i":"13",
-        "t":"Twitter",
-        "u":"https://twitter.com/TransytionStud1",
-        "d":"Follow us on twitter",
-        "a":"Follow!",
+             "i":"14",
+        "t":"Reddit",
+        "u":"https://www.reddit.com/r/ComixViewer/",
+        "d":"Join Reddit",
+        "a":"Join Us",
         "p":"16-08-2020",
-        "b":"Twitter"
+        "b":"Reddit"
         },
                      {
             "i":"6",
@@ -50,6 +50,14 @@
         "a":"ComixViewer",
         "p":"14-08-2020",
         "b":"rating"
+        },{
+             "i":"13",
+        "t":"Twitter",
+        "u":"https://twitter.com/TransytionStud1",
+        "d":"Follow us on twitter",
+        "a":"Follow!",
+        "p":"16-08-2020",
+        "b":"Twitter"
         }],
       "promotions": []
        
